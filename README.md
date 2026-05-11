@@ -22,24 +22,9 @@ Currently learning:
 
 ## Projects
 - SkillSwap Mini
-- Full Stack Web Applications
-- REST API Projects
+  
 
 ## Connect With Me
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/jagruti-jha-01165331a/?skipRedirect=true
+- Email: jagrutijha43@gmail.com
 
-<!--
-**Jagruti0509/Jagruti0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
